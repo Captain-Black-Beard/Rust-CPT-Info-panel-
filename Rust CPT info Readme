@@ -7,7 +7,7 @@ Shop /shop (busy being fixed ATM)
 Buy vehicles “ /Buy (will provide a list and scrap costs” These can then be spawned /spawn eg rhib and recalled /recall rhib
 Get mini /mini
 Craft recycler /recycler.craft (requires materials)
-Get a base to raid /buy raid “choose level”
+Get a base to raid to  “choose level”
 Get NPCs to raid you /raidme buy “level”
 Skill tree /st (great stuff here)
 Get kits /kit
@@ -22,3 +22,6 @@ Here is a lsit posted by Cobus incase in missed anything:
 /shop takes you to the shop directly
 /kit takes you to the kit section directly
 forgot to add /backpack.open - opens your bacpack can also bind it via F1 console bind b backpack.open will bind the backpack to b
+/natureshop - open nature shop
+/td - Flips selected garage door horizontally
+
