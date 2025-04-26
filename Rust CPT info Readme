@@ -1,1 +1,24 @@
 Rust CPT info panel info stored here
+Teleport to player /TP “Player name” 
+Trade with Player “/Trade “Player name”
+Teleport Bandit /Bandit
+Teleport Outpost /Outpost
+Shop /shop (busy being fixed ATM)
+Buy vehicles “ /Buy (will provide a list and scrap costs” These can then be spawned /spawn eg rhib and recalled /recall rhib
+Get mini /mini
+Craft recycler /recycler.craft (requires materials)
+Get a base to raid /buy raid “choose level”
+Get NPCs to raid you /raidme buy “level”
+Skill tree /st (great stuff here)
+Get kits /kit
+Here is a lsit posted by Cobus incase in missed anything:
+/recycler.craft gives you a recycler for your base if you got enough resources in inventory
+/heli - calls attack heli to take down by you and your team
+/buy lets you buy modded vehicles locked to you and your team
+/spawn <vehicle type> will spawn it or you can just type /mini for minicopter
+/nomini or /no<vehicletype> will destroy it
+/buyraid let you buy raidable bases in different tiers
+/st - skill tree it have different commands you can unlock in skill tree like /locatenodes will locate nodes in 200m radius for you and mark them there is also similar option in combat section in skill tree
+/shop takes you to the shop directly
+/kit takes you to the kit section directly
+forgot to add /backpack.open - opens your bacpack can also bind it via F1 console bind b backpack.open will bind the backpack to b
